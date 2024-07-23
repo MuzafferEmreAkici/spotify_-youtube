@@ -1,4 +1,4 @@
-# spotify_-youtube
+# spotify_youtube
 # Spotify and YouTube Data Analysis Project
 
 ## Introduction
