@@ -5,7 +5,7 @@
 This project involves analyzing data from Spotify and YouTube related to Gorillaz, a virtual band. The data includes information about the artists, tracks, albums, and various audio features from Spotify, as well as video information from YouTube.
 
 ## Data
-The data for this project is provided in the file `asset-v1_Kodlasam+VAM-03+2023_02+type@asset+block@asset-v1_Kodlasam_MS01_2023_06_type_asset_block_Spotify_Youtube.csv`. This file contains the following columns:
+This file contains the following columns:
 
 - `Artist`: The name of the artist
 - `Url_spotify`: The Spotify URL for the artist
